@@ -2,18 +2,18 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/scientistigwe">
+  <a href="www.linkedin.com/in/IkennaEgwim">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[scientistigwe](https://github.com/scientistigwe)">
+  <a href="[IkennaEgwim](https://github.com/IkennaEgwim)">
     <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[scientistigwe](https://twitter.com/ScientistIgwe_)">
+  <a href="[IkennaEgwim](https://twitter.com/IkennaEgwim_)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=scientistigwe&style=flat-square&color=blue" alt="my profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=IkennaEgwim&style=flat-square&color=blue" alt="my profile view counter" />
 </div>
 <div align="center">
 <h1>
@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I tour the world via road trips, one place at a time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/scientistigwe)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/IkennaEgwim)
 
 ---
 
@@ -64,8 +64,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scientistigwe&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IkennaEgwim&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scientistigwe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkennaEgwim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Igwe C.C's GitHub stats](https://github-readme-stats.vercel.app/api?username=scientistigwe&show_icons=true&theme=radical)
+![Igwe C.C's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkennaEgwim&show_icons=true&theme=radical)
