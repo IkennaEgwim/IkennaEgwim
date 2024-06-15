@@ -17,7 +17,7 @@
 </div>
 <div align="center">
 <h1>
-  hey there
+  Hello! Thanks for stopping by
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"/>
 </h1>
 </div>
@@ -29,13 +29,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Data Analyst <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdsamhvZmw5NjdtaDZrdTI1OGtyOGRzeWtsa3M2NWZ1bnhoYTVkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="25" height="25"> from United Kingdom.
-
-- :telescope: I’m working as a Data Analyst but currently looking for a role as a frontend and backend developer.
+I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Full Stack Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdsamhvZmw5NjdtaDZrdTI1OGtyOGRzeWtsa3M2NWZ1bnhoYTVkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="25" height="25"> from United Kingdom.
 
 - :seedling: Exploring Data Engineering and Data Science.
 
-- :zap: In my free time, I tour the world via road trips, one place at a time.
+- :zap: In my free time, you will catch me working out at the gym, playing football with friends or relaxing with my kids.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/IkennaEgwim)
 
