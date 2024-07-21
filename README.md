@@ -31,11 +31,11 @@
 
 - 📄 I am a seasoned Data Analyst <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdsamhvZmw5NjdtaDZrdTI1OGtyOGRzeWtsa3M2NWZ1bnhoYTVkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="20" height="20"> and Full Stack Developer  with over a decade of experience in banking, healthcare finance, and consulting. My expertise includes SQL, Power BI, Excel and Problem Solving, which I have used to drive decision-making and achieve significant efficiency improvements. <br><br> Recently, I completed an intensive full-stack software development bootcamp at Code Institute<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. This experience has equipped me with comprehensive skills in Python, JavaScript, HTML/CSS, SQL, UX and Agile methodologies. <br><br>My projects reflect a blend of data analytics and full-stack development, showcasing my commitment to continuous learning and innovation. Let's collaborate on creating impactful tech solutions that drive growth and efficiency.
 
-- 🔭 I’m currently working on [Django Project](https://github.com/IkennaEgwim/django-project) and [100 Days of Code](https://github.com/IkennaEgwim/Python-Challenge) .
+- 🔭 I’m currently working on [Django Project](https://github.com/IkennaEgwim/Expenso) and [100 Days of Python](https://github.com/IkennaEgwim/100-Days-of-Python) .
 
 - :seedling: I am currently learning **Django** and mastering **Python**.
 
-- :zap: In my free time, you will catch me working out at the gym, playing football with friends or relaxing with my kids.
+- :zap: In my free time, you will catch me working out at the gym, playing football with friends or watching documentaries.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/IkennaEgwim)
 
