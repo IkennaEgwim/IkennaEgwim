@@ -47,7 +47,7 @@ TypeScript · Next.js · React · Node.js · Python · PostgreSQL · AWS
 Finsensa's code is private. These public repos are from when I was learning to build:
 
 - **[Expenso](https://github.com/IkennaEgwim/Expenso):** a personal finance app built with Django
-- **[100 Days of Python](https://github.com/IkennaEgwim/100-Days-of-Python):** daily Python projects
+- **[Love Maths][(https://github.com/IkennaEgwim/Love-Math)]:** a simple engaging math game
 
 ---
 
