@@ -16,10 +16,6 @@
     <img src="https://img.shields.io/badge/Finsensa-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Finsensa Website"/>
   </a>
 
-  <a href="https://twitter.com/IkennaEgwim_">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-
 </div>
 
 <br>
